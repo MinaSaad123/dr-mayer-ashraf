@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minasaad123.github.io/dr-mayer-ashraf/sitemap.xml
